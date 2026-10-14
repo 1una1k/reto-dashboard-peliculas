@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+*service-account*.json
+*firebase-adminsdk*.json
+credentials.json
+.env
+.env.*
+.DS_Store

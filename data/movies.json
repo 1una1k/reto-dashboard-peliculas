@@ -1,0 +1,22 @@
+[
+  {"name":"Inception","genre":"Ciencia ficción","director":"Christopher Nolan","company":"Warner Bros."},
+  {"name":"Interstellar","genre":"Ciencia ficción","director":"Christopher Nolan","company":"Paramount Pictures"},
+  {"name":"The Dark Knight","genre":"Acción","director":"Christopher Nolan","company":"Warner Bros."},
+  {"name":"Dunkirk","genre":"Bélica","director":"Christopher Nolan","company":"Warner Bros."},
+  {"name":"Pulp Fiction","genre":"Crimen","director":"Quentin Tarantino","company":"Miramax"},
+  {"name":"Django Unchained","genre":"Western","director":"Quentin Tarantino","company":"Columbia Pictures"},
+  {"name":"Kill Bill: Vol. 1","genre":"Acción","director":"Quentin Tarantino","company":"Miramax"},
+  {"name":"Jurassic Park","genre":"Aventura","director":"Steven Spielberg","company":"Universal Pictures"},
+  {"name":"E.T. the Extra-Terrestrial","genre":"Ciencia ficción","director":"Steven Spielberg","company":"Universal Pictures"},
+  {"name":"Jaws","genre":"Suspenso","director":"Steven Spielberg","company":"Universal Pictures"},
+  {"name":"Titanic","genre":"Romance","director":"James Cameron","company":"Paramount Pictures"},
+  {"name":"Avatar","genre":"Ciencia ficción","director":"James Cameron","company":"20th Century Fox"},
+  {"name":"The Terminator","genre":"Ciencia ficción","director":"James Cameron","company":"Hemdale"},
+  {"name":"The Grand Budapest Hotel","genre":"Comedia","director":"Wes Anderson","company":"Fox Searchlight Pictures"},
+  {"name":"Fantastic Mr. Fox","genre":"Animación","director":"Wes Anderson","company":"20th Century Fox"},
+  {"name":"Roma","genre":"Drama","director":"Alfonso Cuarón","company":"Netflix"},
+  {"name":"Gravity","genre":"Ciencia ficción","director":"Alfonso Cuarón","company":"Warner Bros."},
+  {"name":"Guillermo del Toro's Pinocchio","genre":"Animación","director":"Guillermo del Toro y Mark Gustafson","company":"Netflix"},
+  {"name":"Spirited Away","genre":"Animación","director":"Hayao Miyazaki","company":"Studio Ghibli"},
+  {"name":"My Neighbor Totoro","genre":"Animación","director":"Hayao Miyazaki","company":"Studio Ghibli"}
+]

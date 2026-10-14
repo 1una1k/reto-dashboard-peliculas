@@ -1,0 +1,12 @@
+VERIFICACIÓN LOCAL - 14 de octubre de 2026
+
+Python 3.12.14. 13 pruebas aprobadas con unittest y Streamlit AppTest.
+Probado: datos iniciales, búsquedas, filtro de director, checkbox, altas locales,
+libro de visitas, validación, consultas parametrizadas y manejo de errores.
+
+Los contratos remotos se probaron con dobles de prueba.
+Pendiente: credenciales, creación de bases en la nube, prueba de persistencia
+real y despliegue en Streamlit Community Cloud.
+Repositorio: https://github.com/1una1k/reto-dashboard-peliculas
+
+El modo de demostración no acredita un despliegue en producción.

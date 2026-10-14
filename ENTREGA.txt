@@ -1,0 +1,18 @@
+RETO: DASHBOARD INTERACTIVO DE PELÍCULAS
+
+URL del repositorio público de GitHub:
+https://github.com/1una1k/reto-dashboard-peliculas
+
+URL de la aplicación en producción:
+[Pega aquí la URL real https://....streamlit.app después del despliegue]
+
+Verificación antes de subir este archivo:
+[ ] La URL de GitHub abre el código del proyecto.
+[ ] La aplicación pública abre sin modo demostración.
+[ ] Firestore contiene al menos 20 documentos en movies.
+[ ] Las búsquedas por título funcionan sin distinguir mayúsculas.
+[ ] El filtro por director muestra los filmes correctos y el total.
+[ ] Una nueva película se guarda y persiste al abrir otra sesión.
+[ ] Un comentario se guarda en guests.people y aparece en otra sesión.
+
+Esta plantilla está pendiente de completar. No contiene enlaces de una publicación ya realizada.
