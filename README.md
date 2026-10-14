@@ -2,7 +2,7 @@
 
 Proyecto académico en Python y Streamlit. Consulta y registra películas en la colección `movies` de Firestore, y administra un libro de visitas en la tabla `people` de la base PostgreSQL `guests`.
 
-**Estado del proyecto:** código preparado para configurar y desplegar. Repositorio: https://github.com/1una1k/reto-dashboard-peliculas. Las bases remotas y la aplicación en producción están pendientes de configuración. El modo de demostración no sustituye la conexión a las bases de datos ni acredita el despliegue.
+**Estado del proyecto:** código publicado en https://github.com/1una1k/reto-dashboard-peliculas. Firestore contiene 20 películas y la tabla `guests.public.people` está creada en Aiven. El despliegue en Streamlit está iniciado, pendiente de verificar su arranque y las conexiones desde la aplicación. Las 13 pruebas locales pasan también en Python 3.14.8 con pandas 2.3.3. El modo de demostración no sustituye la conexión a las bases de datos ni acredita el despliegue.
 
 ## Inicio rápido en Visual Studio Code (Windows)
 

@@ -1,12 +1,16 @@
 VERIFICACIÓN LOCAL - 14 de octubre de 2026
 
-Python 3.12.14. 13 pruebas aprobadas con unittest y Streamlit AppTest.
+13 pruebas aprobadas con unittest y Streamlit AppTest en Python 3.12.14.
+Verificación adicional: las mismas 13 pruebas aprobadas en Python 3.14.8
+con pandas 2.3.3, compatible con la versión de Python del despliegue.
 Probado: datos iniciales, búsquedas, filtro de director, checkbox, altas locales,
 libro de visitas, validación, consultas parametrizadas y manejo de errores.
 
-Los contratos remotos se probaron con dobles de prueba.
-Pendiente: credenciales, creación de bases en la nube, prueba de persistencia
-real y despliegue en Streamlit Community Cloud.
+Los contratos de conexión se probaron con dobles de prueba.
+Firestore: carga y lectura reales verificadas; 20 documentos en movies.
+PostgreSQL: la consola de Aiven confirmó guests y public.people (0 comentarios).
+Pendiente: verificar conexiones y persistencia desde la aplicación publicada.
+Despliegue de Streamlit iniciado; pendiente de verificar su arranque.
 Repositorio: https://github.com/1una1k/reto-dashboard-peliculas
 
 El modo de demostración no acredita un despliegue en producción.
